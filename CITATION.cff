@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Mechanical biosensors for closed loop bioelectronic
+  medicine
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hangbo
+    family-names: Zhao
+    name-suffix: PhD
+    email: hangbozh@usc.edu
+    affiliation: >-
+      Department of Aerospace and Mechanical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+  - given-names: Xuan
+    family-names: Li
+    name-suffix: PhD
+    affiliation: >-
+      Department of Aerospace and Mechanical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+  - given-names: Xinghao
+    family-names: Huang
+    affiliation: >-
+      Department of Aerospace and Mechanical Engineering,
+      University of Southern California, Los Angeles, CA,
+      USA
+    orcid: 'https://orcid.org/0000-0003-2419-9811'
+url: 'https://sites.usc.edu/carss/'
+abstract: >-
+  This repository contains design files, fabrication
+  protocols, and testing protocols for two biosensors
+  designed to enable closed-loop bioelectronic medicine. The
+  temperature sensor is made from a thin-film biocompatible
+  polymer and metals and is designed for unobtrusive
+  placement on the target organ. The capacitive strain
+  sensor is composed of biocompatible silicone and wrinkled
+  Parylene C for a high gauge factor.
+keywords:
+  - temperature sensor
+  - strain sensor
+  - biomarker
+  - bioelectronic medicine
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-01-01'
